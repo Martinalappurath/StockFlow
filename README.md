@@ -7,6 +7,7 @@
 ## Team members
 
 -Martin Joseph
+-Christopher Antony
 
 ## Description
 
@@ -24,6 +25,12 @@
 - Allow the general user to search for inventory items
 - Allow the user to filter inventory items based on name , type or tags.
 - Display the notification when the stock goes below a certain amount.
+### (Christopher Antony)
+- ⁠The admin can batch add items into the app.
+- ⁠Admins can add new staff users.
+- ⁠Admins has the authority to change user type.
+- ⁠Admins can delete users from the system.
+
 
 
 
