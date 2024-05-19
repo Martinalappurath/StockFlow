@@ -2,24 +2,25 @@
 
 ## Group ID
 
--S1G1
+- S1G1
 
 ## Team members
 
--Martin Joseph
--Christopher Antony
--Ananthakrishnan krishnakumar
+- Martin Joseph
+- Christopher Antony
+- Ananthakrishnan krishnakumar
+- Arjun Kannammathra Balachandran
 
 
 ## Description
 
--This is a simple app for managing and tracking inventories across warehouses and similar small businesses. The app has features such as listing current inventories and how many stocks are left. It can also generate analytical reports and show visualizations based on stock flow. The app mainly has two profiles, one for admins and one for staff users, and can show various options based on the user type.
+- This is a simple app for managing and tracking inventories across warehouses and similar small businesses. The app has features such as listing current inventories and how many stocks are left. It can also generate analytical reports and show visualizations based on stock flow. The app mainly has two profiles, one for admins and one for staff users, and can show various options based on the user type.
 
 
 
 ## Data source
 
--Single user input
+- Single user input
 
 ## Features
 
@@ -40,6 +41,12 @@
 - Admins can delete or update items.
 - The App can generate report for admin based on past sales.
 - Staffs can inform admin about restocking an item.
+
+## (Arjun Kannammathra Balachandran)
+- Admins can publish notification to all staff users.
+- The staff can reduce inventory stock amount based on sale.
+- Admin can publish the work schedule through the app for staffs
+- Admin can see who made the sale and its details like profit and quantity.
 
 
 
