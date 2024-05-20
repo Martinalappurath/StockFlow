@@ -24,7 +24,7 @@
 
 ## Features
 
-### (martin joseph)
+### (Martin joseph)
 - App displays a splash screen on load.
 - Allow the general user to search for inventory items
 - Allow the user to filter inventory items based on name , type or tags.
@@ -42,7 +42,7 @@
 - The App can generate report for admin based on past sales.
 - Staffs can inform admin about restocking an item.
 
-## (Arjun Kannammathra Balachandran)
+### (Arjun Kannammathra Balachandran)
 - Admins can publish notification to all staff users.
 - The staff can reduce inventory stock amount based on sale.
 - Admin can publish the work schedule through the app for staffs
